@@ -49,7 +49,7 @@ The final stacked model achieved a 3% performance boost over the baseline, signi
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/AliPakzad/Telco-Customer-Churn-Prediction.git
+   git clone https://github.com/AliPakzad/Telecom-Customer-Churn-Prediction.git
 
 2. Install the required packages:
    pip install -r requirements.txt
